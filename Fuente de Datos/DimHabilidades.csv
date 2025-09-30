@@ -1,0 +1,2712 @@
+﻿IdForma,Habilidad
+1 - A,Espesura
+1 - A,Clorofila
+2 - A,Espesura
+2 - A,Clorofila
+3 - A,Espesura
+3 - A,Clorofila
+4 - A,Mar Llamas
+4 - A,Poder Solar
+5 - A,Mar Llamas
+5 - A,Poder Solar
+6 - A,Mar Llamas
+6 - A,Poder Solar
+7 - A,Torrente
+7 - A,Cura Lluvia
+8 - A,Torrente
+8 - A,Cura Lluvia
+9 - A,Torrente
+9 - A,Cura Lluvia
+10 - A,Polvo Escudo
+10 - A,Fuga
+11 - A,Mudar
+12 - A,Ojo Compuesto
+12 - A,Cromolente
+13 - A,Polvo Escudo
+13 - A,Fuga
+14 - A,Mudar
+15 - A,Enjambre
+15 - A,Francotirador
+16 - A,Vista Lince
+16 - A,Tumbos
+16 - A,Sacapecho
+17 - A,Vista Lince
+17 - A,Tumbos
+17 - A,Sacapecho
+18 - A,Vista Lince
+18 - A,Tumbos
+18 - A,Sacapecho
+19 - A,Fuga
+19 - A,Agallas
+19 - A,Entusiasmo
+19 - B,Gula
+19 - B,Entusiasmo
+19 - B,Sebo
+20 - A,Fuga
+20 - A,Agallas
+20 - A,Entusiasmo
+20 - B,Gula
+20 - B,Entusiasmo
+20 - B,Sebo
+21 - A,Vista Lince
+21 - A,Francotirador
+22 - A,Vista Lince
+22 - A,Francotirador
+23 - A,Intimidación
+23 - A,Mudar
+23 - A,Nerviosismo
+24 - A,Intimidación
+24 - A,Mudar
+24 - A,Nerviosismo
+25 - A,Elec. Estática
+25 - A,Pararrayos
+26 - A,Elec. Estática
+26 - A,Pararrayos
+26 - B,Cola Surf
+27 - A,Velo Arena
+27 - A,Ímpetu Arena
+27 - B,Manto Níveo
+27 - B,Quitanieves
+28 - A,Velo Arena
+28 - A,Ímpetu Arena
+28 - B,Manto Níveo
+28 - B,Quitanieves
+29 - A,Punto Tóxico
+29 - A,Rivalidad
+29 - A,Entusiasmo
+30 - A,Punto Tóxico
+30 - A,Rivalidad
+30 - A,Entusiasmo
+31 - A,Punto Tóxico
+31 - A,Rivalidad
+31 - A,Potencia Bruta
+32 - A,Punto Tóxico
+32 - A,Rivalidad
+32 - A,Entusiasmo
+33 - A,Punto Tóxico
+33 - A,Rivalidad
+33 - A,Entusiasmo
+34 - A,Punto Tóxico
+34 - A,Rivalidad
+34 - A,Potencia Bruta
+35 - A,Gran Encanto
+35 - A,Muro Mágico
+35 - A,Compiescolta
+36 - A,Gran Encanto
+36 - A,Muro Mágico
+36 - A,Ignorante
+37 - A,Absorbe Fuego
+37 - A,Sequía
+37 - B,Manto Níveo
+37 - B,Nevada
+38 - A,Absorbe Fuego
+38 - A,Sequía
+38 - B,Manto Níveo
+38 - B,Nevada
+39 - A,Gran Encanto
+39 - A,Tenacidad
+39 - A,Compiescolta
+40 - A,Gran Encanto
+40 - A,Tenacidad
+40 - A,Cacheo
+41 - A,Foco Interno
+41 - A,Allanamiento
+42 - A,Foco Interno
+42 - A,Allanamiento
+43 - A,Clorofila
+43 - A,Fuga
+44 - A,Clorofila
+44 - A,Hedor
+45 - A,Clorofila
+45 - A,Efecto Espora
+46 - A,Efecto Espora
+46 - A,Piel Seca
+46 - A,Humedad
+47 - A,Efecto Espora
+47 - A,Piel Seca
+47 - A,Humedad
+48 - A,Ojo Compuesto
+48 - A,Cromolente
+48 - A,Fuga
+49 - A,Polvo Escudo
+49 - A,Cromolente
+49 - A,Piel Milagro
+50 - A,Velo Arena
+50 - A,Trampa Arena
+50 - A,Poder Arena
+50 - B,Velo Arena
+50 - B,Rizos Rebeldes
+50 - B,Poder Arena
+51 - A,Velo Arena
+51 - A,Trampa Arena
+51 - A,Poder Arena
+51 - B,Velo Arena
+51 - B,Rizos Rebeldes
+51 - B,Poder Arena
+52 - A,Recogida
+52 - A,Experto
+52 - A,Nerviosismo
+52 - B,Recogida
+52 - B,Experto
+52 - B,Cobardía
+52 - C,Recogida
+52 - C,Garra Dura
+52 - C,Nerviosismo
+53 - A,Flexibilidad
+53 - A,Experto
+53 - A,Nerviosismo
+53 - B,Pelaje Recio
+53 - B,Experto
+53 - B,Cobardía
+54 - A,Humedad
+54 - A,Aclimatación
+54 - A,Nado Rápido
+55 - A,Humedad
+55 - A,Aclimatación
+55 - A,Nado Rápido
+56 - A,Espíritu Vital
+56 - A,Irascible
+56 - A,Competitivo
+57 - A,Espíritu Vital
+57 - A,Irascible
+57 - A,Competitivo
+58 - A,Intimidación
+58 - A,Absorbe Fuego
+58 - A,Justiciero
+58 - B,Intimidación
+58 - B,Absorbe Fuego
+58 - B,Cabeza Roca
+59 - A,Intimidación
+59 - A,Absorbe Fuego
+59 - A,Justiciero
+59 - B,Intimidación
+59 - B,Absorbe Fuego
+59 - B,Cabeza Roca
+60 - A,Absorbe Agua
+60 - A,Humedad
+60 - A,Nado Rápido
+61 - A,Absorbe Agua
+61 - A,Humedad
+61 - A,Nado Rápido
+62 - A,Absorbe Agua
+62 - A,Humedad
+62 - A,Nado Rápido
+63 - A,Sincronía
+63 - A,Foco Interno
+63 - A,Muro Mágico
+64 - A,Sincronía
+64 - A,Foco Interno
+64 - A,Muro Mágico
+65 - A,Sincronía
+65 - A,Foco Interno
+65 - A,Muro Mágico
+66 - A,Agallas
+66 - A,Indefenso
+66 - A,Impasible
+67 - A,Agallas
+67 - A,Indefenso
+67 - A,Impasible
+68 - A,Agallas
+68 - A,Indefenso
+68 - A,Impasible
+69 - A,Clorofila
+69 - A,Gula
+70 - A,Clorofila
+70 - A,Gula
+71 - A,Clorofila
+71 - A,Gula
+72 - A,Cuerpo Puro
+72 - A,Lodo Líquido
+72 - A,Cura Lluvia
+73 - A,Cuerpo Puro
+73 - A,Lodo Líquido
+73 - A,Cura Lluvia
+74 - A,Cabeza Roca
+74 - A,Robustez
+74 - A,Velo Arena
+74 - B,Imán
+74 - B,Robustez
+74 - B,Piel Eléctrica
+75 - A,Cabeza Roca
+75 - A,Robustez
+75 - A,Velo Arena
+75 - B,Imán
+75 - B,Robustez
+75 - B,Piel Eléctrica
+76 - A,Cabeza Roca
+76 - A,Robustez
+76 - A,Velo Arena
+76 - B,Imán
+76 - B,Robustez
+76 - B,Piel Eléctrica
+77 - A,Fuga
+77 - A,Absorbe Fuego
+77 - A,Cuerpo Llama
+77 - B,Fuga
+77 - B,Velo Pastel
+77 - B,Anticipación
+78 - A,Fuga
+78 - A,Absorbe Fuego
+78 - A,Cuerpo Llama
+78 - B,Fuga
+78 - B,Velo Pastel
+78 - B,Anticipación
+79 - A,Despiste
+79 - A,Ritmo Propio
+79 - A,Regeneración
+79 - B,Gula
+79 - B,Ritmo Propio
+79 - B,Regeneración
+80 - A,Despiste
+80 - A,Ritmo Propio
+80 - A,Regeneración
+80 - B,Mano Rápida
+80 - B,Ritmo Propio
+80 - B,Regeneración
+81 - A,Imán
+81 - A,Robustez
+81 - A,Cálculo Final
+82 - A,Imán
+82 - A,Robustez
+82 - A,Cálculo Final
+83 - A,Vista Lince
+83 - A,Foco Interno
+83 - A,Competitivo
+83 - B,Impasible
+83 - B,Intrépido
+84 - A,Fuga
+84 - A,Madrugar
+84 - A,Tumbos
+85 - A,Fuga
+85 - A,Madrugar
+85 - A,Tumbos
+86 - A,Sebo
+86 - A,Hidratación
+86 - A,Gélido
+87 - A,Sebo
+87 - A,Hidratación
+87 - A,Gélido
+88 - A,Hedor
+88 - A,Viscosidad
+88 - A,Toque Tóxico
+88 - B,Toque Tóxico
+88 - B,Gula
+88 - B,Reacción Química
+89 - A,Hedor
+89 - A,Viscosidad
+89 - A,Toque Tóxico
+89 - B,Toque Tóxico
+89 - B,Gula
+89 - B,Reacción Química
+90 - A,Caparazón
+90 - A,Encadenado
+90 - A,Funda
+91 - A,Caparazón
+91 - A,Encadenado
+91 - A,Funda
+92 - A,Levitación
+93 - A,Levitación
+94 - A,Cuerpo Maldito
+95 - A,Cabeza Roca
+95 - A,Robustez
+95 - A,Armadura Frágil
+96 - A,Insomnio
+96 - A,Alerta
+96 - A,Foco Interno
+97 - A,Insomnio
+97 - A,Alerta
+97 - A,Foco Interno
+98 - A,Corte Fuerte
+98 - A,Caparazón
+98 - A,Potencia Bruta
+99 - A,Corte Fuerte
+99 - A,Caparazón
+99 - A,Potencia Bruta
+100 - A,Insonorizar
+100 - A,Elec. Estática
+100 - A,Detonación
+100 - B,Insonorizar
+100 - B,Elec. Estática
+100 - B,Detonación
+101 - A,Insonorizar
+101 - A,Elec. Estática
+101 - A,Detonación
+101 - B,Insonorizar
+101 - B,Elec. Estática
+101 - B,Detonación
+102 - A,Clorofila
+102 - A,Cosecha
+103 - A,Clorofila
+103 - A,Cosecha
+103 - B,Cacheo
+103 - B,Cosecha
+104 - A,Cabeza Roca
+104 - A,Pararrayos
+104 - A,Armadura Batalla
+105 - A,Cabeza Roca
+105 - A,Pararrayos
+105 - A,Armadura Batalla
+105 - B,Cuerpo Maldito
+105 - B,Pararrayos
+105 - B,Cabeza Roca
+106 - A,Flexibilidad
+106 - A,Audaz
+106 - A,Liviano
+107 - A,Vista Lince
+107 - A,Puño Férreo
+107 - A,Foco Interno
+108 - A,Ritmo Propio
+108 - A,Despiste
+108 - A,Aclimatación
+109 - A,Levitación
+109 - A,Gas Reactivo
+109 - A,Hedor
+110 - A,Levitación
+110 - A,Gas Reactivo
+110 - A,Hedor
+110 - B,Levitación
+110 - B,Gas Reactivo
+110 - B,Nebulogénesis
+111 - A,Pararrayos
+111 - A,Cabeza Roca
+111 - A,Audaz
+112 - A,Pararrayos
+112 - A,Cabeza Roca
+112 - A,Audaz
+113 - A,Cura Natural
+113 - A,Dicha
+113 - A,Alma Cura
+114 - A,Clorofila
+114 - A,Defensa Hoja
+114 - A,Regeneración
+115 - A,Madrugar
+115 - A,Intrépido
+115 - A,Foco Interno
+116 - A,Nado Rápido
+116 - A,Francotirador
+116 - A,Humedad
+117 - A,Punto Tóxico
+117 - A,Francotirador
+117 - A,Humedad
+118 - A,Nado Rápido
+118 - A,Velo Agua
+118 - A,Pararrayos
+119 - A,Nado Rápido
+119 - A,Velo Agua
+119 - A,Pararrayos
+120 - A,Iluminación
+120 - A,Cura Natural
+120 - A,Cálculo Final
+121 - A,Iluminación
+121 - A,Cura Natural
+121 - A,Cálculo Final
+122 - A,Insonorizar
+122 - A,Filtro
+122 - A,Experto
+122 - B,Espíritu Vital
+122 - B,Antibarrera
+122 - B,Gélido
+123 - A,Enjambre
+123 - A,Experto
+123 - A,Impasible
+124 - A,Despiste
+124 - A,Alerta
+124 - A,Piel Seca
+125 - A,Elec. Estática
+125 - A,Espíritu Vital
+126 - A,Cuerpo Llama
+126 - A,Espíritu Vital
+127 - A,Corte Fuerte
+127 - A,Rompemoldes
+127 - A,Autoestima
+128 - A,Intimidación
+128 - A,Irascible
+128 - A,Potencia Bruta
+128 - B,Intimidación
+128 - B,Irascible
+128 - B,Rumia
+128 - C,Intimidación
+128 - C,Irascible
+128 - C,Rumia
+128 - D,Intimidación
+128 - D,Irascible
+128 - D,Rumia
+129 - A,Nado Rápido
+129 - A,Cobardía
+130 - A,Intimidación
+130 - A,Autoestima
+131 - A,Absorbe Agua
+131 - A,Caparazón
+131 - A,Hidratación
+132 - A,Flexibilidad
+132 - A,Impostor
+133 - A,Fuga
+133 - A,Adaptable
+133 - A,Anticipación
+134 - A,Absorbe Agua
+134 - A,Hidratación
+135 - A,Absorbe Elec
+135 - A,Pies Rápidos
+136 - A,Absorbe Fuego
+136 - A,Agallas
+137 - A,Rastro
+137 - A,Descarga
+137 - A,Cálculo Final
+138 - A,Nado Rápido
+138 - A,Caparazón
+138 - A,Armadura Frágil
+139 - A,Nado Rápido
+139 - A,Caparazón
+139 - A,Armadura Frágil
+140 - A,Nado Rápido
+140 - A,Armadura Batalla
+140 - A,Armadura Frágil
+141 - A,Nado Rápido
+141 - A,Armadura Batalla
+141 - A,Armadura Frágil
+142 - A,Cabeza Roca
+142 - A,Presión
+142 - A,Nerviosismo
+143 - A,Inmunidad
+143 - A,Sebo
+143 - A,Gula
+144 - A,Presión
+144 - A,Manto Níveo
+144 - B,Tenacidad
+145 - A,Presión
+145 - A,Elec. Estática
+145 - B,Competitivo
+146 - A,Presión
+146 - A,Cuerpo Llama
+146 - B,Cólera
+147 - A,Mudar
+147 - A,Escama Especial
+148 - A,Mudar
+148 - A,Escama Especial
+149 - A,Foco Interno
+149 - A,Multiescamas
+150 - A,Presión
+150 - A,Nerviosismo
+151 - A,Sincronía
+152 - A,Espesura
+152 - A,Defensa Hoja
+153 - A,Espesura
+153 - A,Defensa Hoja
+154 - A,Espesura
+154 - A,Defensa Hoja
+155 - A,Mar Llamas
+155 - A,Absorbe Fuego
+156 - A,Mar Llamas
+156 - A,Absorbe Fuego
+157 - A,Mar Llamas
+157 - A,Absorbe Fuego
+157 - B,Mar Llamas
+157 - B,Cacheo
+158 - A,Torrente
+158 - A,Potencia Bruta
+159 - A,Torrente
+159 - A,Potencia Bruta
+160 - A,Torrente
+160 - A,Potencia Bruta
+161 - A,Fuga
+161 - A,Vista Lince
+161 - A,Cacheo
+162 - A,Fuga
+162 - A,Vista Lince
+162 - A,Cacheo
+163 - A,Insomnio
+163 - A,Vista Lince
+163 - A,Cromolente
+164 - A,Insomnio
+164 - A,Vista Lince
+164 - A,Cromolente
+165 - A,Enjambre
+165 - A,Madrugar
+165 - A,Cobardía
+166 - A,Enjambre
+166 - A,Madrugar
+166 - A,Puño Férreo
+167 - A,Enjambre
+167 - A,Insomnio
+167 - A,Francotirador
+168 - A,Enjambre
+168 - A,Insomnio
+168 - A,Francotirador
+169 - A,Foco Interno
+169 - A,Allanamiento
+170 - A,Absorbe Elec
+170 - A,Iluminación
+170 - A,Absorbe Agua
+171 - A,Absorbe Elec
+171 - A,Iluminación
+171 - A,Absorbe Agua
+172 - A,Elec. Estática
+172 - A,Pararrayos
+173 - A,Gran Encanto
+173 - A,Muro Mágico
+173 - A,Compiescolta
+174 - A,Gran Encanto
+174 - A,Tenacidad
+174 - A,Compiescolta
+175 - A,Entusiasmo
+175 - A,Dicha
+175 - A,Afortunado
+176 - A,Entusiasmo
+176 - A,Dicha
+176 - A,Afortunado
+177 - A,Sincronía
+177 - A,Madrugar
+177 - A,Espejo Mágico
+178 - A,Sincronía
+178 - A,Madrugar
+178 - A,Espejo Mágico
+179 - A,Elec. Estática
+179 - A,Más
+180 - A,Elec. Estática
+180 - A,Más
+181 - A,Elec. Estática
+181 - A,Más
+182 - A,Clorofila
+182 - A,Alma Cura
+183 - A,Sebo
+183 - A,Potencia
+183 - A,Herbívoro
+184 - A,Sebo
+184 - A,Potencia
+184 - A,Herbívoro
+185 - A,Robustez
+185 - A,Cabeza Roca
+185 - A,Cobardía
+186 - A,Absorbe Agua
+186 - A,Humedad
+186 - A,Llovizna
+187 - A,Clorofila
+187 - A,Defensa Hoja
+187 - A,Allanamiento
+188 - A,Clorofila
+188 - A,Defensa Hoja
+188 - A,Allanamiento
+189 - A,Clorofila
+189 - A,Defensa Hoja
+189 - A,Allanamiento
+190 - A,Fuga
+190 - A,Recogida
+190 - A,Encadenado
+191 - A,Clorofila
+191 - A,Poder Solar
+191 - A,Madrugar
+192 - A,Clorofila
+192 - A,Poder Solar
+192 - A,Madrugar
+193 - A,Impulso
+193 - A,Ojo Compuesto
+193 - A,Cacheo
+194 - A,Humedad
+194 - A,Absorbe Agua
+194 - A,Ignorante
+194 - B,Punto Tóxico
+194 - B,Absorbe Agua
+194 - B,Ignorante
+195 - A,Humedad
+195 - A,Absorbe Agua
+195 - A,Ignorante
+196 - A,Sincronía
+196 - A,Espejo Mágico
+197 - A,Sincronía
+197 - A,Foco Interno
+198 - A,Insomnio
+198 - A,Afortunado
+198 - A,Bromista
+199 - A,Despiste
+199 - A,Ritmo Propio
+199 - A,Regeneración
+199 - B,Medicina Extraña
+199 - B,Ritmo Propio
+199 - B,Regeneración
+200 - A,Levitación
+201 - A,Levitación
+202 - A,Sombra Trampa
+202 - A,Telepatía
+203 - A,Foco Interno
+203 - A,Madrugar
+203 - A,Herbívoro
+204 - A,Robustez
+204 - A,Funda
+205 - A,Robustez
+205 - A,Funda
+206 - A,Dicha
+206 - A,Fuga
+206 - A,Cobardía
+207 - A,Corte Fuerte
+207 - A,Velo Arena
+207 - A,Inmunidad
+208 - A,Cabeza Roca
+208 - A,Robustez
+208 - A,Potencia Bruta
+209 - A,Intimidación
+209 - A,Fuga
+209 - A,Cobardía
+210 - A,Intimidación
+210 - A,Pies Rápidos
+210 - A,Cobardía
+211 - A,Punto Tóxico
+211 - A,Nado Rápido
+211 - A,Intimidación
+211 - B,Punto Tóxico
+211 - B,Nado Rápido
+211 - B,Intimidación
+212 - A,Enjambre
+212 - A,Experto
+212 - A,Metal Liviano
+213 - A,Robustez
+213 - A,Gula
+213 - A,Respondón
+214 - A,Enjambre
+214 - A,Agallas
+214 - A,Autoestima
+215 - A,Foco Interno
+215 - A,Vista Lince
+215 - A,Hurto
+215 - B,Foco Interno
+215 - B,Vista Lince
+215 - B,Hurto
+216 - A,Recogida
+216 - A,Pies Rápidos
+216 - A,Recogemiel
+217 - A,Agallas
+217 - A,Pies Rápidos
+217 - A,Nerviosismo
+218 - A,Escudo Magma
+218 - A,Cuerpo Llama
+218 - A,Armadura Frágil
+219 - A,Escudo Magma
+219 - A,Cuerpo Llama
+219 - A,Armadura Frágil
+220 - A,Despiste
+220 - A,Manto Níveo
+220 - A,Sebo
+221 - A,Despiste
+221 - A,Manto Níveo
+221 - A,Sebo
+222 - A,Entusiasmo
+222 - A,Cura Natural
+222 - A,Regeneración
+222 - B,Armadura Frágil
+222 - B,Cuerpo Maldito
+223 - A,Entusiasmo
+223 - A,Francotirador
+223 - A,Veleta
+224 - A,Ventosas
+224 - A,Francotirador
+224 - A,Veleta
+225 - A,Espíritu Vital
+225 - A,Entusiasmo
+225 - A,Insomnio
+226 - A,Nado Rápido
+226 - A,Absorbe Agua
+226 - A,Velo Agua
+227 - A,Vista Lince
+227 - A,Robustez
+227 - A,Armadura Frágil
+228 - A,Madrugar
+228 - A,Absorbe Fuego
+228 - A,Nerviosismo
+229 - A,Madrugar
+229 - A,Absorbe Fuego
+229 - A,Nerviosismo
+230 - A,Nado Rápido
+230 - A,Francotirador
+230 - A,Humedad
+231 - A,Recogida
+231 - A,Velo Arena
+232 - A,Robustez
+232 - A,Velo Arena
+233 - A,Rastro
+233 - A,Descarga
+233 - A,Cálculo Final
+234 - A,Intimidación
+234 - A,Cacheo
+234 - A,Herbívoro
+235 - A,Ritmo Propio
+235 - A,Experto
+235 - A,Veleta
+236 - A,Agallas
+236 - A,Impasible
+236 - A,Espíritu Vital
+237 - A,Intimidación
+237 - A,Experto
+237 - A,Impasible
+238 - A,Despiste
+238 - A,Alerta
+238 - A,Hidratación
+239 - A,Elec. Estática
+239 - A,Espíritu Vital
+240 - A,Cuerpo Llama
+240 - A,Espíritu Vital
+241 - A,Sebo
+241 - A,Intrépido
+241 - A,Herbívoro
+242 - A,Cura Natural
+242 - A,Dicha
+242 - A,Alma Cura
+243 - A,Presión
+243 - A,Foco Interno
+244 - A,Presión
+244 - A,Foco Interno
+245 - A,Presión
+245 - A,Foco Interno
+246 - A,Agallas
+246 - A,Velo Arena
+247 - A,Mudar
+248 - A,Chorro Arena
+248 - A,Nerviosismo
+249 - A,Presión
+249 - A,Multiescamas
+250 - A,Presión
+250 - A,Regeneración
+251 - A,Cura Natural
+252 - A,Espesura
+252 - A,Liviano
+253 - A,Espesura
+253 - A,Liviano
+254 - A,Espesura
+254 - A,Liviano
+255 - A,Mar Llamas
+255 - A,Impulso
+256 - A,Mar Llamas
+256 - A,Impulso
+257 - A,Mar Llamas
+257 - A,Impulso
+258 - A,Torrente
+258 - A,Humedad
+259 - A,Torrente
+259 - A,Humedad
+260 - A,Torrente
+260 - A,Humedad
+261 - A,Fuga
+261 - A,Pies Rápidos
+261 - A,Cobardía
+262 - A,Intimidación
+262 - A,Pies Rápidos
+262 - A,Autoestima
+263 - A,Recogida
+263 - A,Gula
+263 - A,Pies Rápidos
+263 - B,Recogida
+263 - B,Gula
+263 - B,Pies Rápidos
+264 - A,Recogida
+264 - A,Gula
+264 - A,Pies Rápidos
+264 - B,Recogida
+264 - B,Gula
+264 - B,Pies Rápidos
+265 - A,Polvo Escudo
+265 - A,Fuga
+266 - A,Mudar
+267 - A,Enjambre
+267 - A,Rivalidad
+268 - A,Mudar
+269 - A,Polvo Escudo
+269 - A,Ojo Compuesto
+270 - A,Nado Rápido
+270 - A,Cura Lluvia
+270 - A,Ritmo Propio
+271 - A,Nado Rápido
+271 - A,Cura Lluvia
+271 - A,Ritmo Propio
+272 - A,Nado Rápido
+272 - A,Cura Lluvia
+272 - A,Ritmo Propio
+273 - A,Clorofila
+273 - A,Madrugar
+273 - A,Hurto
+274 - A,Clorofila
+274 - A,Madrugar
+274 - A,Hurto
+275 - A,Clorofila
+275 - A,Surcavientos
+275 - A,Hurto
+276 - A,Agallas
+276 - A,Intrépido
+277 - A,Agallas
+277 - A,Intrépido
+278 - A,Vista Lince
+278 - A,Hidratación
+278 - A,Cura Lluvia
+279 - A,Vista Lince
+279 - A,Llovizna
+279 - A,Cura Lluvia
+280 - A,Sincronía
+280 - A,Rastro
+280 - A,Telepatía
+281 - A,Sincronía
+281 - A,Rastro
+281 - A,Telepatía
+282 - A,Sincronía
+282 - A,Rastro
+282 - A,Telepatía
+283 - A,Nado Rápido
+283 - A,Cura Lluvia
+284 - A,Intimidación
+284 - A,Nerviosismo
+285 - A,Efecto Espora
+285 - A,Antídoto
+285 - A,Pies Rápidos
+286 - A,Efecto Espora
+286 - A,Antídoto
+286 - A,Experto
+287 - A,Ausente
+288 - A,Espíritu Vital
+289 - A,Ausente
+290 - A,Ojo Compuesto
+290 - A,Fuga
+291 - A,Impulso
+291 - A,Allanamiento
+292 - A,Superguarda
+293 - A,Insonorizar
+293 - A,Cobardía
+294 - A,Insonorizar
+294 - A,Intrépido
+295 - A,Insonorizar
+295 - A,Intrépido
+296 - A,Sebo
+296 - A,Agallas
+296 - A,Potencia Bruta
+297 - A,Sebo
+297 - A,Agallas
+297 - A,Potencia Bruta
+298 - A,Sebo
+298 - A,Potencia
+298 - A,Herbívoro
+299 - A,Robustez
+299 - A,Imán
+299 - A,Poder Arena
+300 - A,Gran Encanto
+300 - A,Normalidad
+300 - A,Piel Milagro
+301 - A,Gran Encanto
+301 - A,Normalidad
+301 - A,Piel Milagro
+302 - A,Vista Lince
+302 - A,Rezagado
+302 - A,Bromista
+303 - A,Corte Fuerte
+303 - A,Intimidación
+303 - A,Potencia Bruta
+304 - A,Robustez
+304 - A,Cabeza Roca
+304 - A,Metal Pesado
+305 - A,Robustez
+305 - A,Cabeza Roca
+305 - A,Metal Pesado
+306 - A,Robustez
+306 - A,Cabeza Roca
+306 - A,Metal Pesado
+307 - A,Energía Pura
+307 - A,Telepatía
+308 - A,Energía Pura
+308 - A,Telepatía
+309 - A,Elec. Estática
+309 - A,Pararrayos
+309 - A,Menos
+310 - A,Elec. Estática
+310 - A,Pararrayos
+310 - A,Menos
+311 - A,Más
+311 - A,Pararrayos
+312 - A,Menos
+312 - A,Absorbe Elec
+313 - A,Iluminación
+313 - A,Enjambre
+313 - A,Bromista
+314 - A,Despiste
+314 - A,Cromolente
+314 - A,Bromista
+315 - A,Cura Natural
+315 - A,Punto Tóxico
+315 - A,Defensa Hoja
+316 - A,Lodo Líquido
+316 - A,Viscosidad
+316 - A,Gula
+317 - A,Lodo Líquido
+317 - A,Viscosidad
+317 - A,Gula
+318 - A,Piel Tosca
+318 - A,Impulso
+319 - A,Piel Tosca
+319 - A,Impulso
+320 - A,Velo Agua
+320 - A,Despiste
+320 - A,Presión
+321 - A,Velo Agua
+321 - A,Despiste
+321 - A,Presión
+322 - A,Despiste
+322 - A,Simple
+322 - A,Ritmo Propio
+323 - A,Escudo Magma
+323 - A,Roca Sólida
+323 - A,Irascible
+324 - A,Humo Blanco
+324 - A,Sequía
+324 - A,Caparazón
+325 - A,Sebo
+325 - A,Ritmo Propio
+325 - A,Gula
+326 - A,Sebo
+326 - A,Ritmo Propio
+326 - A,Gula
+327 - A,Ritmo Propio
+327 - A,Tumbos
+327 - A,Respondón
+328 - A,Corte Fuerte
+328 - A,Trampa Arena
+328 - A,Potencia Bruta
+329 - A,Levitación
+330 - A,Levitación
+331 - A,Velo Arena
+331 - A,Absorbe Agua
+332 - A,Velo Arena
+332 - A,Absorbe Agua
+333 - A,Cura Natural
+333 - A,Aclimatación
+334 - A,Cura Natural
+334 - A,Aclimatación
+335 - A,Inmunidad
+335 - A,Ímpetu Tóxico
+336 - A,Mudar
+336 - A,Allanamiento
+337 - A,Levitación
+338 - A,Levitación
+339 - A,Despiste
+339 - A,Anticipación
+339 - A,Hidratación
+340 - A,Despiste
+340 - A,Anticipación
+340 - A,Hidratación
+341 - A,Corte Fuerte
+341 - A,Caparazón
+341 - A,Adaptable
+342 - A,Corte Fuerte
+342 - A,Caparazón
+342 - A,Adaptable
+343 - A,Levitación
+344 - A,Levitación
+345 - A,Ventosas
+345 - A,Colector
+346 - A,Ventosas
+346 - A,Colector
+347 - A,Armadura Batalla
+347 - A,Nado Rápido
+348 - A,Armadura Batalla
+348 - A,Nado Rápido
+349 - A,Nado Rápido
+349 - A,Despiste
+349 - A,Adaptable
+350 - A,Escama Especial
+350 - A,Tenacidad
+350 - A,Gran Encanto
+351 - A,Predicción
+351 - B,Predicción
+351 - C,Predicción
+351 - D,Predicción
+352 - A,Cambio Color
+352 - A,Mutatipo
+353 - A,Insomnio
+353 - A,Cacheo
+353 - A,Cuerpo Maldito
+354 - A,Insomnio
+354 - A,Cacheo
+354 - A,Cuerpo Maldito
+355 - A,Levitación
+355 - A,Cacheo
+356 - A,Presión
+356 - A,Cacheo
+357 - A,Clorofila
+357 - A,Poder Solar
+357 - A,Cosecha
+358 - A,Levitación
+359 - A,Presión
+359 - A,Afortunado
+359 - A,Justiciero
+360 - A,Sombra Trampa
+360 - A,Telepatía
+361 - A,Foco Interno
+361 - A,Gélido
+361 - A,Veleta
+362 - A,Foco Interno
+362 - A,Gélido
+362 - A,Veleta
+363 - A,Sebo
+363 - A,Gélido
+363 - A,Despiste
+364 - A,Sebo
+364 - A,Gélido
+364 - A,Despiste
+365 - A,Sebo
+365 - A,Gélido
+365 - A,Despiste
+366 - A,Caparazón
+366 - A,Cobardía
+367 - A,Nado Rápido
+367 - A,Velo Agua
+368 - A,Nado Rápido
+368 - A,Hidratación
+369 - A,Nado Rápido
+369 - A,Cabeza Roca
+369 - A,Robustez
+370 - A,Nado Rápido
+370 - A,Hidratación
+371 - A,Cabeza Roca
+371 - A,Potencia Bruta
+372 - A,Cabeza Roca
+372 - A,Funda
+373 - A,Intimidación
+373 - A,Autoestima
+374 - A,Cuerpo Puro
+374 - A,Metal Liviano
+375 - A,Cuerpo Puro
+375 - A,Metal Liviano
+376 - A,Cuerpo Puro
+376 - A,Metal Liviano
+377 - A,Cuerpo Puro
+377 - A,Robustez
+378 - A,Cuerpo Puro
+378 - A,Gélido
+379 - A,Cuerpo Puro
+379 - A,Metal Liviano
+380 - A,Levitación
+381 - A,Levitación
+382 - A,Llovizna
+382 - B,Mar del Albor
+383 - A,Sequía
+383 - B,Tierra del Ocaso
+384 - A,Bucle Aire
+385 - A,Dicha
+386 - A,Presión
+386 - B,Presión
+386 - C,Presión
+386 - D,Presión
+387 - A,Espesura
+387 - A,Caparazón
+388 - A,Espesura
+388 - A,Caparazón
+389 - A,Espesura
+389 - A,Caparazón
+390 - A,Mar Llamas
+390 - A,Puño Férreo
+391 - A,Mar Llamas
+391 - A,Puño Férreo
+392 - A,Mar Llamas
+392 - A,Puño Férreo
+393 - A,Torrente
+393 - A,Tenacidad
+394 - A,Torrente
+394 - A,Tenacidad
+395 - A,Torrente
+395 - A,Tenacidad
+396 - A,Vista Lince
+396 - A,Audaz
+397 - A,Intimidación
+397 - A,Audaz
+398 - A,Intimidación
+398 - A,Audaz
+399 - A,Simple
+399 - A,Ignorante
+399 - A,Veleta
+400 - A,Simple
+400 - A,Ignorante
+400 - A,Veleta
+401 - A,Mudar
+401 - A,Fuga
+402 - A,Enjambre
+402 - A,Experto
+403 - A,Rivalidad
+403 - A,Intimidación
+403 - A,Agallas
+404 - A,Rivalidad
+404 - A,Intimidación
+404 - A,Agallas
+405 - A,Rivalidad
+405 - A,Intimidación
+405 - A,Agallas
+406 - A,Cura Natural
+406 - A,Punto Tóxico
+406 - A,Defensa Hoja
+407 - A,Cura Natural
+407 - A,Punto Tóxico
+407 - A,Experto
+408 - A,Rompemoldes
+408 - A,Potencia Bruta
+409 - A,Rompemoldes
+409 - A,Potencia Bruta
+410 - A,Robustez
+410 - A,Insonorizar
+411 - A,Robustez
+411 - A,Insonorizar
+412 - A,Mudar
+412 - A,Funda
+413 - A,Anticipación
+413 - A,Funda
+413 - B,Anticipación
+413 - B,Funda
+413 - C,Anticipación
+413 - C,Funda
+414 - A,Enjambre
+414 - A,Cromolente
+415 - A,Recogemiel
+415 - A,Entusiasmo
+416 - A,Presión
+416 - A,Nerviosismo
+417 - A,Fuga
+417 - A,Recogida
+417 - A,Absorbe Elec
+418 - A,Nado Rápido
+418 - A,Velo Agua
+419 - A,Nado Rápido
+419 - A,Velo Agua
+420 - A,Clorofila
+421 - A,Don Floral
+422 - A,Viscosidad
+422 - A,Colector
+422 - A,Poder Arena
+423 - A,Viscosidad
+423 - A,Colector
+423 - A,Poder Arena
+424 - A,Experto
+424 - A,Recogida
+424 - A,Encadenado
+425 - A,Detonación
+425 - A,Liviano
+425 - A,Ímpetu Ardiente
+426 - A,Detonación
+426 - A,Liviano
+426 - A,Ímpetu Ardiente
+427 - A,Fuga
+427 - A,Zoquete
+427 - A,Flexibilidad
+428 - A,Gran Encanto
+428 - A,Zoquete
+428 - A,Flexibilidad
+429 - A,Levitación
+430 - A,Insomnio
+430 - A,Afortunado
+430 - A,Autoestima
+431 - A,Flexibilidad
+431 - A,Ritmo Propio
+431 - A,Vista Lince
+432 - A,Sebo
+432 - A,Ritmo Propio
+432 - A,Competitivo
+433 - A,Levitación
+434 - A,Hedor
+434 - A,Detonación
+434 - A,Vista Lince
+435 - A,Hedor
+435 - A,Detonación
+435 - A,Vista Lince
+436 - A,Levitación
+436 - A,Ignífugo
+436 - A,Metal Pesado
+437 - A,Levitación
+437 - A,Ignífugo
+437 - A,Metal Pesado
+438 - A,Robustez
+438 - A,Cabeza Roca
+438 - A,Cobardía
+439 - A,Insonorizar
+439 - A,Filtro
+439 - A,Experto
+440 - A,Cura Natural
+440 - A,Dicha
+440 - A,Compiescolta
+441 - A,Vista Lince
+441 - A,Tumbos
+441 - A,Sacapecho
+442 - A,Presión
+442 - A,Allanamiento
+443 - A,Velo Arena
+443 - A,Piel Tosca
+444 - A,Velo Arena
+444 - A,Piel Tosca
+445 - A,Velo Arena
+445 - A,Piel Tosca
+446 - A,Recogida
+446 - A,Sebo
+446 - A,Gula
+447 - A,Impasible
+447 - A,Foco Interno
+447 - A,Bromista
+448 - A,Impasible
+448 - A,Foco Interno
+448 - A,Justiciero
+449 - A,Chorro Arena
+449 - A,Poder Arena
+450 - A,Chorro Arena
+450 - A,Poder Arena
+451 - A,Armadura Batalla
+451 - A,Francotirador
+451 - A,Vista Lince
+452 - A,Armadura Batalla
+452 - A,Francotirador
+452 - A,Vista Lince
+453 - A,Anticipación
+453 - A,Piel Seca
+453 - A,Toque Tóxico
+454 - A,Anticipación
+454 - A,Piel Seca
+454 - A,Toque Tóxico
+455 - A,Levitación
+456 - A,Nado Rápido
+456 - A,Colector
+456 - A,Velo Agua
+457 - A,Nado Rápido
+457 - A,Colector
+457 - A,Velo Agua
+458 - A,Nado Rápido
+458 - A,Absorbe Agua
+458 - A,Velo Agua
+459 - A,Nevada
+459 - A,Insonorizar
+460 - A,Nevada
+460 - A,Insonorizar
+461 - A,Presión
+461 - A,Hurto
+462 - A,Imán
+462 - A,Robustez
+462 - A,Cálculo Final
+463 - A,Ritmo Propio
+463 - A,Despiste
+463 - A,Aclimatación
+464 - A,Pararrayos
+464 - A,Roca Sólida
+464 - A,Audaz
+465 - A,Clorofila
+465 - A,Defensa Hoja
+465 - A,Regeneración
+466 - A,Electromotor
+466 - A,Espíritu Vital
+467 - A,Cuerpo Llama
+467 - A,Espíritu Vital
+468 - A,Entusiasmo
+468 - A,Dicha
+468 - A,Afortunado
+469 - A,Impulso
+469 - A,Cromolente
+469 - A,Cacheo
+470 - A,Defensa Hoja
+470 - A,Clorofila
+471 - A,Manto Níveo
+471 - A,Gélido
+472 - A,Corte Fuerte
+472 - A,Velo Arena
+472 - A,Antídoto
+473 - A,Despiste
+473 - A,Manto Níveo
+473 - A,Sebo
+474 - A,Adaptable
+474 - A,Descarga
+474 - A,Cálculo Final
+475 - A,Impasible
+475 - A,Cortante
+475 - A,Justiciero
+476 - A,Robustez
+476 - A,Imán
+476 - A,Poder Arena
+477 - A,Presión
+477 - A,Cacheo
+478 - A,Manto Níveo
+478 - A,Cuerpo Maldito
+479 - A,Levitación
+479 - B,Levitación
+479 - C,Levitación
+479 - D,Levitación
+479 - E,Levitación
+479 - F,Levitación
+480 - A,Levitación
+481 - A,Levitación
+482 - A,Levitación
+483 - A,Presión
+483 - A,Telepatía
+483 - B,Presión
+483 - B,Telepatía
+484 - A,Presión
+484 - A,Telepatía
+484 - B,Presión
+484 - B,Telepatía
+485 - A,Absorbe Fuego
+485 - A,Cuerpo Llama
+486 - A,Inicio Lento
+487 - A,Presión
+487 - A,Telepatía
+487 - B,Levitación
+488 - A,Levitación
+489 - A,Hidratación
+490 - A,Hidratación
+491 - A,Mal Sueño
+492 - A,Cura Natural
+492 - B,Dicha
+493 - A,Multitipo
+494 - A,Tinovictoria
+495 - A,Espesura
+495 - A,Respondón
+496 - A,Espesura
+496 - A,Respondón
+497 - A,Espesura
+497 - A,Respondón
+498 - A,Mar Llamas
+498 - A,Sebo
+499 - A,Mar Llamas
+499 - A,Sebo
+500 - A,Mar Llamas
+500 - A,Audaz
+501 - A,Torrente
+501 - A,Caparazón
+502 - A,Torrente
+502 - A,Caparazón
+503 - A,Torrente
+503 - A,Caparazón
+503 - B,Torrente
+503 - B,Cortante
+504 - A,Fuga
+504 - A,Vista Lince
+504 - A,Cálculo Final
+505 - A,Iluminación
+505 - A,Vista Lince
+505 - A,Cálculo Final
+506 - A,Espíritu Vital
+506 - A,Recogida
+506 - A,Fuga
+507 - A,Intimidación
+507 - A,Ímpetu Arena
+507 - A,Intrépido
+508 - A,Intimidación
+508 - A,Ímpetu Arena
+508 - A,Intrépido
+509 - A,Flexibilidad
+509 - A,Liviano
+509 - A,Bromista
+510 - A,Flexibilidad
+510 - A,Liviano
+510 - A,Bromista
+511 - A,Gula
+511 - A,Espesura
+512 - A,Gula
+512 - A,Espesura
+513 - A,Gula
+513 - A,Mar Llamas
+514 - A,Gula
+514 - A,Mar Llamas
+515 - A,Gula
+515 - A,Torrente
+516 - A,Gula
+516 - A,Torrente
+517 - A,Alerta
+517 - A,Sincronía
+517 - A,Telepatía
+518 - A,Alerta
+518 - A,Sincronía
+518 - A,Telepatía
+519 - A,Sacapecho
+519 - A,Afortunado
+519 - A,Rivalidad
+520 - A,Sacapecho
+520 - A,Afortunado
+520 - A,Rivalidad
+521 - A,Sacapecho
+521 - A,Afortunado
+521 - A,Rivalidad
+522 - A,Pararrayos
+522 - A,Electromotor
+522 - A,Herbívoro
+523 - A,Pararrayos
+523 - A,Electromotor
+523 - A,Herbívoro
+524 - A,Robustez
+524 - A,Armadura Frágil
+524 - A,Poder Arena
+525 - A,Robustez
+525 - A,Armadura Frágil
+525 - A,Poder Arena
+526 - A,Robustez
+526 - A,Chorro Arena
+526 - A,Poder Arena
+527 - A,Ignorante
+527 - A,Zoquete
+527 - A,Simple
+528 - A,Ignorante
+528 - A,Zoquete
+528 - A,Simple
+529 - A,Ímpetu Arena
+529 - A,Poder Arena
+529 - A,Rompemoldes
+530 - A,Ímpetu Arena
+530 - A,Poder Arena
+530 - A,Rompemoldes
+531 - A,Alma Cura
+531 - A,Regeneración
+531 - A,Zoquete
+532 - A,Agallas
+532 - A,Potencia Bruta
+532 - A,Puño Férreo
+533 - A,Agallas
+533 - A,Potencia Bruta
+533 - A,Puño Férreo
+534 - A,Agallas
+534 - A,Potencia Bruta
+534 - A,Puño Férreo
+535 - A,Nado Rápido
+535 - A,Hidratación
+535 - A,Absorbe Agua
+536 - A,Nado Rápido
+536 - A,Hidratación
+536 - A,Absorbe Agua
+537 - A,Nado Rápido
+537 - A,Toque Tóxico
+537 - A,Absorbe Agua
+538 - A,Agallas
+538 - A,Foco Interno
+538 - A,Rompemoldes
+539 - A,Robustez
+539 - A,Foco Interno
+539 - A,Rompemoldes
+540 - A,Enjambre
+540 - A,Clorofila
+540 - A,Funda
+541 - A,Defensa Hoja
+541 - A,Clorofila
+541 - A,Funda
+542 - A,Enjambre
+542 - A,Clorofila
+542 - A,Funda
+543 - A,Punto Tóxico
+543 - A,Enjambre
+543 - A,Impulso
+544 - A,Punto Tóxico
+544 - A,Enjambre
+544 - A,Impulso
+545 - A,Punto Tóxico
+545 - A,Enjambre
+545 - A,Impulso
+546 - A,Bromista
+546 - A,Allanamiento
+546 - A,Clorofila
+547 - A,Bromista
+547 - A,Allanamiento
+547 - A,Clorofila
+548 - A,Clorofila
+548 - A,Ritmo Propio
+548 - A,Defensa Hoja
+549 - A,Clorofila
+549 - A,Ritmo Propio
+549 - A,Defensa Hoja
+549 - B,Clorofila
+549 - B,Entusiasmo
+549 - B,Defensa Hoja
+550 - A,Audaz
+550 - A,Adaptable
+550 - A,Rompemoldes
+550 - B,Cabeza Roca
+550 - B,Adaptable
+550 - B,Rompemoldes
+550 - C,Cobardía
+550 - C,Adaptable
+550 - C,Rompemoldes
+551 - A,Intimidación
+551 - A,Autoestima
+551 - A,Irascible
+552 - A,Intimidación
+552 - A,Autoestima
+552 - A,Irascible
+553 - A,Intimidación
+553 - A,Autoestima
+553 - A,Irascible
+554 - A,Entusiasmo
+554 - A,Foco Interno
+554 - B,Entusiasmo
+554 - B,Foco Interno
+555 - A,Potencia Bruta
+555 - A,Modo Daruma
+555 - B,Potencia Bruta
+555 - B,Modo Daruma
+555 - C,Monotema
+555 - C,Modo Daruma
+555 - D,Monotema
+555 - D,Modo Daruma
+556 - A,Absorbe Agua
+556 - A,Clorofila
+556 - A,Colector
+557 - A,Robustez
+557 - A,Caparazón
+557 - A,Armadura Frágil
+558 - A,Robustez
+558 - A,Caparazón
+558 - A,Armadura Frágil
+559 - A,Mudar
+559 - A,Autoestima
+559 - A,Intimidación
+560 - A,Mudar
+560 - A,Autoestima
+560 - A,Intimidación
+561 - A,Piel Milagro
+561 - A,Muro Mágico
+561 - A,Cromolente
+562 - A,Momia
+562 - B,Alma Errante
+563 - A,Momia
+564 - A,Roca Sólida
+564 - A,Robustez
+564 - A,Nado Rápido
+565 - A,Roca Sólida
+565 - A,Robustez
+565 - A,Nado Rápido
+566 - A,Flaqueza
+567 - A,Flaqueza
+568 - A,Hedor
+568 - A,Viscosidad
+568 - A,Detonación
+569 - A,Hedor
+569 - A,Armadura Frágil
+569 - A,Detonación
+570 - A,Ilusión
+570 - B,Ilusión
+571 - A,Ilusión
+571 - B,Ilusión
+572 - A,Gran Encanto
+572 - A,Experto
+572 - A,Encadenado
+573 - A,Gran Encanto
+573 - A,Experto
+573 - A,Encadenado
+574 - A,Cacheo
+574 - A,Tenacidad
+574 - A,Sombra Trampa
+575 - A,Cacheo
+575 - A,Tenacidad
+575 - A,Sombra Trampa
+576 - A,Cacheo
+576 - A,Tenacidad
+576 - A,Sombra Trampa
+577 - A,Funda
+577 - A,Muro Mágico
+577 - A,Regeneración
+578 - A,Funda
+578 - A,Muro Mágico
+578 - A,Regeneración
+579 - A,Funda
+579 - A,Muro Mágico
+579 - A,Regeneración
+580 - A,Vista Lince
+580 - A,Sacapecho
+580 - A,Hidratación
+581 - A,Vista Lince
+581 - A,Sacapecho
+581 - A,Hidratación
+582 - A,Gélido
+582 - A,Manto Níveo
+582 - A,Armadura Frágil
+583 - A,Gélido
+583 - A,Manto Níveo
+583 - A,Armadura Frágil
+584 - A,Gélido
+584 - A,Nevada
+584 - A,Armadura Frágil
+585 - A,Clorofila
+585 - A,Herbívoro
+585 - A,Dicha
+586 - A,Clorofila
+586 - A,Herbívoro
+586 - A,Dicha
+587 - A,Elec. Estática
+587 - A,Electromotor
+588 - A,Enjambre
+588 - A,Mudar
+588 - A,Indefenso
+589 - A,Enjambre
+589 - A,Caparazón
+589 - A,Funda
+590 - A,Efecto Espora
+590 - A,Regeneración
+591 - A,Efecto Espora
+591 - A,Regeneración
+592 - A,Absorbe Agua
+592 - A,Cuerpo Maldito
+592 - A,Humedad
+593 - A,Absorbe Agua
+593 - A,Cuerpo Maldito
+593 - A,Humedad
+594 - A,Alma Cura
+594 - A,Hidratación
+594 - A,Regeneración
+595 - A,Ojo Compuesto
+595 - A,Nerviosismo
+595 - A,Enjambre
+596 - A,Ojo Compuesto
+596 - A,Nerviosismo
+596 - A,Enjambre
+597 - A,Punta Acero
+598 - A,Punta Acero
+598 - A,Anticipación
+599 - A,Más
+599 - A,Menos
+599 - A,Cuerpo Puro
+600 - A,Más
+600 - A,Menos
+600 - A,Cuerpo Puro
+601 - A,Más
+601 - A,Menos
+601 - A,Cuerpo Puro
+602 - A,Levitación
+603 - A,Levitación
+604 - A,Levitación
+605 - A,Telepatía
+605 - A,Sincronía
+605 - A,Cálculo Final
+606 - A,Telepatía
+606 - A,Sincronía
+606 - A,Cálculo Final
+607 - A,Absorbe Fuego
+607 - A,Cuerpo Llama
+607 - A,Allanamiento
+608 - A,Absorbe Fuego
+608 - A,Cuerpo Llama
+608 - A,Allanamiento
+609 - A,Absorbe Fuego
+609 - A,Cuerpo Llama
+609 - A,Allanamiento
+610 - A,Rivalidad
+610 - A,Rompemoldes
+610 - A,Nerviosismo
+611 - A,Rivalidad
+611 - A,Rompemoldes
+611 - A,Nerviosismo
+612 - A,Rivalidad
+612 - A,Rompemoldes
+612 - A,Nerviosismo
+613 - A,Manto Níveo
+613 - A,Quitanieves
+613 - A,Cobardía
+614 - A,Manto Níveo
+614 - A,Quitanieves
+614 - A,Nado Rápido
+615 - A,Levitación
+616 - A,Hidratación
+616 - A,Caparazón
+616 - A,Funda
+617 - A,Hidratación
+617 - A,Viscosidad
+617 - A,Liviano
+618 - A,Elec. Estática
+618 - A,Flexibilidad
+618 - A,Velo Arena
+618 - B,Mimetismo
+619 - A,Foco Interno
+619 - A,Regeneración
+619 - A,Audaz
+620 - A,Foco Interno
+620 - A,Regeneración
+620 - A,Audaz
+621 - A,Piel Tosca
+621 - A,Potencia Bruta
+621 - A,Rompemoldes
+622 - A,Puño Férreo
+622 - A,Zoquete
+622 - A,Indefenso
+623 - A,Puño Férreo
+623 - A,Zoquete
+623 - A,Indefenso
+624 - A,Competitivo
+624 - A,Foco Interno
+624 - A,Presión
+625 - A,Competitivo
+625 - A,Foco Interno
+625 - A,Presión
+626 - A,Audaz
+626 - A,Herbívoro
+626 - A,Insonorizar
+627 - A,Vista Lince
+627 - A,Potencia Bruta
+627 - A,Entusiasmo
+628 - A,Vista Lince
+628 - A,Potencia Bruta
+628 - A,Competitivo
+628 - B,Vista Lince
+628 - B,Potencia Bruta
+628 - B,Cromolente
+629 - A,Sacapecho
+629 - A,Funda
+629 - A,Armadura Frágil
+630 - A,Sacapecho
+630 - A,Funda
+630 - A,Armadura Frágil
+631 - A,Gula
+631 - A,Absorbe Fuego
+631 - A,Humo Blanco
+632 - A,Enjambre
+632 - A,Entusiasmo
+632 - A,Ausente
+633 - A,Entusiasmo
+634 - A,Entusiasmo
+635 - A,Levitación
+636 - A,Cuerpo Llama
+636 - A,Enjambre
+637 - A,Cuerpo Llama
+637 - A,Enjambre
+638 - A,Justiciero
+639 - A,Justiciero
+640 - A,Justiciero
+641 - A,Bromista
+641 - A,Competitivo
+641 - B,Regeneración
+642 - A,Bromista
+642 - A,Competitivo
+642 - B,Absorbe Elec
+643 - A,Turbollama
+644 - A,Terravoltaje
+645 - A,Poder Arena
+645 - A,Potencia Bruta
+645 - B,Intimidación
+646 - A,Presión
+646 - B,Terravoltaje
+646 - C,Turbollama
+647 - A,Justiciero
+647 - B,Justiciero
+648 - A,Dicha
+648 - B,Dicha
+649 - A,Descarga
+650 - A,Espesura
+650 - A,Antibalas
+651 - A,Espesura
+651 - A,Antibalas
+652 - A,Espesura
+652 - A,Antibalas
+653 - A,Mar Llamas
+653 - A,Prestidigitador
+654 - A,Mar Llamas
+654 - A,Prestidigitador
+655 - A,Mar Llamas
+655 - A,Prestidigitador
+656 - A,Torrente
+656 - A,Mutatipo
+657 - A,Torrente
+657 - A,Mutatipo
+658 - A,Torrente
+658 - A,Mutatipo
+658 - B,Fuerte Afecto
+658 - C,Fuerte Afecto
+659 - A,Recogida
+659 - A,Carrillo
+659 - A,Potencia
+660 - A,Recogida
+660 - A,Carrillo
+660 - A,Potencia
+661 - A,Sacapecho
+661 - A,Alas Vendaval
+662 - A,Cuerpo Llama
+662 - A,Alas Vendaval
+663 - A,Cuerpo Llama
+663 - A,Alas Vendaval
+664 - A,Polvo Escudo
+664 - A,Ojo Compuesto
+664 - A,Compiescolta
+665 - A,Mudar
+665 - A,Compiescolta
+666 - A,Polvo Escudo
+666 - A,Ojo Compuesto
+666 - A,Compiescolta
+667 - A,Rivalidad
+667 - A,Nerviosismo
+667 - A,Autoestima
+668 - A,Rivalidad
+668 - A,Nerviosismo
+668 - A,Autoestima
+669 - A,Velo Flor
+669 - A,Simbiosis
+670 - A,Velo Flor
+670 - A,Simbiosis
+670 - B,Velo Flor
+670 - B,Simbiosis
+671 - A,Velo Flor
+671 - A,Simbiosis
+672 - A,Herbívoro
+672 - A,Manto Frondoso
+673 - A,Herbívoro
+673 - A,Manto Frondoso
+674 - A,Puño Férreo
+674 - A,Rompemoldes
+674 - A,Intrépido
+675 - A,Puño Férreo
+675 - A,Rompemoldes
+675 - A,Intrépido
+676 - A,Pelaje Recio
+677 - A,Vista Lince
+677 - A,Allanamiento
+677 - A,Ritmo Propio
+678 - A,Vista Lince
+678 - A,Allanamiento
+678 - A,Bromista
+678 - B,Vista Lince
+678 - B,Allanamiento
+678 - B,Tenacidad
+679 - A,Indefenso
+680 - A,Indefenso
+681 - A,Cambio Táctico
+681 - B,Cambio Táctico
+682 - A,Alma Cura
+682 - A,Velo Aroma
+683 - A,Alma Cura
+683 - A,Velo Aroma
+684 - A,Velo Dulce
+684 - A,Liviano
+685 - A,Velo Dulce
+685 - A,Liviano
+686 - A,Respondón
+686 - A,Ventosas
+686 - A,Allanamiento
+687 - A,Respondón
+687 - A,Ventosas
+687 - A,Allanamiento
+688 - A,Garra Dura
+688 - A,Francotirador
+688 - A,Hurto
+689 - A,Garra Dura
+689 - A,Francotirador
+689 - A,Hurto
+690 - A,Punto Tóxico
+690 - A,Toque Tóxico
+690 - A,Adaptable
+691 - A,Punto Tóxico
+691 - A,Toque Tóxico
+691 - A,Adaptable
+692 - A,Megadisparador
+693 - A,Megadisparador
+694 - A,Piel Seca
+694 - A,Velo Arena
+694 - A,Poder Solar
+695 - A,Piel Seca
+695 - A,Velo Arena
+695 - A,Poder Solar
+696 - A,Mandíbula Fuerte
+696 - A,Robustez
+697 - A,Mandíbula Fuerte
+697 - A,Cabeza Roca
+698 - A,Piel Helada
+698 - A,Nevada
+699 - A,Piel Helada
+699 - A,Nevada
+700 - A,Gran Encanto
+700 - A,Piel Feérica
+701 - A,Flexibilidad
+701 - A,Liviano
+701 - A,Rompemoldes
+702 - A,Carrillo
+702 - A,Recogida
+702 - A,Más
+703 - A,Cuerpo Puro
+703 - A,Robustez
+704 - A,Herbívoro
+704 - A,Hidratación
+704 - A,Baba
+705 - A,Herbívoro
+705 - A,Hidratación
+705 - A,Baba
+705 - B,Herbívoro
+705 - B,Caparazón
+705 - B,Baba
+706 - A,Herbívoro
+706 - A,Hidratación
+706 - A,Baba
+706 - B,Herbívoro
+706 - B,Caparazón
+706 - B,Baba
+707 - A,Bromista
+707 - A,Prestidigitador
+708 - A,Cura Natural
+708 - A,Cacheo
+708 - A,Cosecha
+709 - A,Cura Natural
+709 - A,Cacheo
+709 - A,Cosecha
+710 - A,Recogida
+710 - A,Cacheo
+710 - A,Insomnio
+710 - B,Recogida
+710 - B,Cacheo
+710 - B,Insomnio
+710 - C,Recogida
+710 - C,Cacheo
+710 - C,Insomnio
+710 - D,Recogida
+710 - D,Cacheo
+710 - D,Insomnio
+711 - A,Recogida
+711 - A,Cacheo
+711 - A,Insomnio
+711 - B,Recogida
+711 - B,Cacheo
+711 - B,Insomnio
+711 - C,Recogida
+711 - C,Cacheo
+711 - C,Insomnio
+711 - D,Recogida
+711 - D,Cacheo
+711 - D,Insomnio
+712 - A,Ritmo Propio
+712 - A,Gélido
+712 - A,Robustez
+713 - A,Ritmo Propio
+713 - A,Gélido
+713 - A,Robustez
+713 - B,Mandíbula Fuerte
+713 - B,Gélido
+713 - B,Robustez
+714 - A,Cacheo
+714 - A,Allanamiento
+714 - A,Telepatía
+715 - A,Cacheo
+715 - A,Allanamiento
+715 - A,Telepatía
+716 - A,Aura Feérica
+717 - A,Aura Oscura
+718 - A,Rompeaura
+718 - B,Agrupamiento
+718 - C,Agrupamiento
+718 - D,Agrupamiento
+718 - E,Rompeaura
+719 - A,Cuerpo Puro
+720 - A,Prestidigitador
+720 - B,Prestidigitador
+721 - A,Absorbe Agua
+722 - A,Espesura
+722 - A,Remoto
+723 - A,Espesura
+723 - A,Remoto
+724 - A,Espesura
+724 - A,Remoto
+724 - B,Espesura
+724 - B,Intrépido
+725 - A,Mar Llamas
+725 - A,Intimidación
+726 - A,Mar Llamas
+726 - A,Intimidación
+727 - A,Mar Llamas
+727 - A,Intimidación
+728 - A,Torrente
+728 - A,Voz Fluida
+729 - A,Torrente
+729 - A,Voz Fluida
+730 - A,Torrente
+730 - A,Voz Fluida
+731 - A,Vista Lince
+731 - A,Encadenado
+731 - A,Recogida
+732 - A,Vista Lince
+732 - A,Encadenado
+732 - A,Recogida
+733 - A,Vista Lince
+733 - A,Encadenado
+733 - A,Potencia Bruta
+734 - A,Vigilante
+734 - A,Mandíbula Fuerte
+734 - A,Adaptable
+735 - A,Vigilante
+735 - A,Mandíbula Fuerte
+735 - A,Adaptable
+736 - A,Enjambre
+737 - A,Batería
+738 - A,Levitación
+739 - A,Corte Fuerte
+739 - A,Puño Férreo
+739 - A,Irascible
+740 - A,Corte Fuerte
+740 - A,Puño Férreo
+740 - A,Irascible
+741 - A,Pareja de Baile
+741 - B,Pareja de Baile
+741 - C,Pareja de Baile
+741 - D,Pareja de Baile
+742 - A,Recogemiel
+742 - A,Polvo Escudo
+742 - A,Velo Dulce
+743 - A,Recogemiel
+743 - A,Polvo Escudo
+743 - A,Velo Dulce
+744 - A,Vista Lince
+744 - A,Espíritu Vital
+744 - A,Impasible
+744 - B,Ritmo Propio
+745 - A,Vista Lince
+745 - A,Ímpetu Arena
+745 - A,Impasible
+745 - B,Vista Lince
+745 - B,Espíritu Vital
+745 - B,Indefenso
+745 - C,Garra Dura
+746 - A,Banco
+746 - B,Banco
+747 - A,Ensañamiento
+747 - A,Flexibilidad
+747 - A,Regeneración
+748 - A,Ensañamiento
+748 - A,Flexibilidad
+748 - A,Regeneración
+749 - A,Ritmo Propio
+749 - A,Firmeza
+749 - A,Foco Interno
+750 - A,Ritmo Propio
+750 - A,Firmeza
+750 - A,Foco Interno
+751 - A,Pompa
+751 - A,Absorbe Agua
+752 - A,Pompa
+752 - A,Absorbe Agua
+753 - A,Defensa Hoja
+753 - A,Respondón
+754 - A,Defensa Hoja
+754 - A,Respondón
+755 - A,Iluminación
+755 - A,Efecto Espora
+755 - A,Cura Lluvia
+756 - A,Iluminación
+756 - A,Efecto Espora
+756 - A,Cura Lluvia
+757 - A,Corrosión
+757 - A,Despiste
+758 - A,Corrosión
+758 - A,Despiste
+759 - A,Peluche
+759 - A,Zoquete
+759 - A,Gran Encanto
+760 - A,Peluche
+760 - A,Zoquete
+760 - A,Nerviosismo
+761 - A,Defensa Hoja
+761 - A,Despiste
+761 - A,Velo Dulce
+762 - A,Defensa Hoja
+762 - A,Despiste
+762 - A,Velo Dulce
+763 - A,Defensa Hoja
+763 - A,Regia Presencia
+763 - A,Velo Dulce
+764 - A,Velo Flor
+764 - A,Primer Auxilio
+764 - A,Cura Natural
+765 - A,Foco Interno
+765 - A,Telepatía
+765 - A,Simbiosis
+766 - A,Receptor
+766 - A,Competitivo
+767 - A,Huida
+768 - A,Retirada
+769 - A,Hidrorrefuerzo
+769 - A,Velo Arena
+770 - A,Hidrorrefuerzo
+770 - A,Velo Arena
+771 - A,Revés
+771 - A,Ignorante
+772 - A,Armadura Batalla
+773 - A,Sistema Alfa
+774 - A,Escudo Limitado
+774 - B,Escudo Limitado
+774 - C,Escudo Limitado
+774 - D,Escudo Limitado
+774 - E,Escudo Limitado
+774 - F,Escudo Limitado
+774 - G,Escudo Limitado
+774 - H,Escudo Limitado
+774 - I,Escudo Limitado
+774 - J,Escudo Limitado
+774 - K,Escudo Limitado
+774 - L,Escudo Limitado
+774 - M,Escudo Limitado
+774 - N,Escudo Limitado
+775 - A,Letargo Perenne
+776 - A,Caparazón
+777 - A,Punta Acero
+777 - A,Pararrayos
+777 - A,Robustez
+778 - A,Disfraz
+778 - B,Disfraz
+779 - A,Cuerpo Vívido
+779 - A,Mandíbula Fuerte
+779 - A,Piel Milagro
+780 - A,Cólera
+780 - A,Herbívoro
+780 - A,Aclimatación
+781 - A,Acero Templado
+782 - A,Antibalas
+782 - A,Insonorizar
+782 - A,Funda
+783 - A,Antibalas
+783 - A,Insonorizar
+783 - A,Funda
+784 - A,Antibalas
+784 - A,Insonorizar
+784 - A,Funda
+785 - A,Electrogénesis
+785 - A,Telepatía
+786 - A,Psicogénesis
+786 - A,Telepatía
+787 - A,Herbogénesis
+787 - A,Telepatía
+788 - A,Nebulogénesis
+788 - A,Telepatía
+789 - A,Ignorante
+790 - A,Robustez
+791 - A,Guardia Metálica
+792 - A,Guardia Espectro
+793 - A,Ultraimpulso
+794 - A,Ultraimpulso
+795 - A,Ultraimpulso
+796 - A,Ultraimpulso
+797 - A,Ultraimpulso
+798 - A,Ultraimpulso
+799 - A,Ultraimpulso
+800 - A,Armadura Prisma
+800 - B,Armadura Prisma
+800 - C,Armadura Prisma
+800 - D,Fuerza Cerebral
+801 - A,Coránima
+801 - B,Coránima
+802 - A,Experto
+803 - A,Ultraimpulso
+804 - A,Ultraimpulso
+805 - A,Ultraimpulso
+806 - A,Ultraimpulso
+807 - A,Absorbe Elec
+808 - A,Imán
+809 - A,Puño Férreo
+810 - A,Espesura
+810 - A,Herbogénesis
+811 - A,Espesura
+811 - A,Herbogénesis
+812 - A,Espesura
+812 - A,Herbogénesis
+813 - A,Mar Llamas
+813 - A,Líbero
+814 - A,Mar Llamas
+814 - A,Líbero
+815 - A,Mar Llamas
+815 - A,Líbero
+816 - A,Torrente
+816 - A,Francotirador
+817 - A,Torrente
+817 - A,Francotirador
+818 - A,Torrente
+818 - A,Francotirador
+819 - A,Carrillo
+819 - A,Gula
+820 - A,Carrillo
+820 - A,Gula
+821 - A,Vista Lince
+821 - A,Nerviosismo
+821 - A,Sacapecho
+822 - A,Vista Lince
+822 - A,Nerviosismo
+822 - A,Sacapecho
+823 - A,Presión
+823 - A,Nerviosismo
+823 - A,Coraza Reflejo
+824 - A,Enjambre
+824 - A,Ojo Compuesto
+824 - A,Telepatía
+825 - A,Enjambre
+825 - A,Ojo Compuesto
+825 - A,Telepatía
+826 - A,Enjambre
+826 - A,Cacheo
+826 - A,Telepatía
+827 - A,Fuga
+827 - A,Liviano
+827 - A,Vigilante
+828 - A,Fuga
+828 - A,Liviano
+828 - A,Vigilante
+829 - A,Pelusa
+829 - A,Regeneración
+829 - A,Efecto Espora
+830 - A,Pelusa
+830 - A,Regeneración
+830 - A,Efecto Espora
+831 - A,Peluche
+831 - A,Fuga
+831 - A,Antibalas
+832 - A,Peluche
+832 - A,Impasible
+832 - A,Antibalas
+833 - A,Mandíbula Fuerte
+833 - A,Caparazón
+833 - A,Nado Rápido
+834 - A,Mandíbula Fuerte
+834 - A,Caparazón
+834 - A,Nado Rápido
+835 - A,Recogebolas
+835 - A,Cobardía
+836 - A,Mandíbula Fuerte
+836 - A,Tenacidad
+837 - A,Combustible
+837 - A,Ignífugo
+837 - A,Absorbe Fuego
+838 - A,Combustible
+838 - A,Cuerpo Llama
+838 - A,Absorbe Fuego
+839 - A,Combustible
+839 - A,Cuerpo Llama
+839 - A,Absorbe Fuego
+840 - A,Maduración
+840 - A,Gula
+840 - A,Antibalas
+841 - A,Maduración
+841 - A,Gula
+841 - A,Entusiasmo
+842 - A,Maduración
+842 - A,Gula
+842 - A,Sebo
+843 - A,Expulsarena
+843 - A,Mudar
+843 - A,Velo Arena
+844 - A,Expulsarena
+844 - A,Mudar
+844 - A,Velo Arena
+845 - A,Tragamisil
+845 - B,Tragamisil
+845 - C,Tragamisil
+846 - A,Nado Rápido
+846 - A,Hélice Caudal
+847 - A,Nado Rápido
+847 - A,Hélice Caudal
+848 - A,Cobardía
+848 - A,Elec. Estática
+848 - A,Zoquete
+849 - A,Punk Rock
+849 - A,Más
+849 - A,Experto
+849 - B,Punk Rock
+849 - B,Menos
+849 - B,Experto
+850 - A,Absorbe Fuego
+850 - A,Humo Blanco
+850 - A,Cuerpo Llama
+851 - A,Absorbe Fuego
+851 - A,Humo Blanco
+851 - A,Cuerpo Llama
+852 - A,Flexibilidad
+852 - A,Experto
+853 - A,Flexibilidad
+853 - A,Experto
+854 - A,Armadura Frágil
+854 - A,Cuerpo Maldito
+855 - A,Armadura Frágil
+855 - A,Cuerpo Maldito
+856 - A,Alma Cura
+856 - A,Anticipación
+856 - A,Espejo Mágico
+857 - A,Alma Cura
+857 - A,Anticipación
+857 - A,Espejo Mágico
+858 - A,Alma Cura
+858 - A,Anticipación
+858 - A,Espejo Mágico
+859 - A,Bromista
+859 - A,Cacheo
+859 - A,Hurto
+860 - A,Bromista
+860 - A,Cacheo
+860 - A,Hurto
+861 - A,Bromista
+861 - A,Cacheo
+861 - A,Hurto
+862 - A,Audaz
+862 - A,Agallas
+862 - A,Competitivo
+863 - A,Armadura Batalla
+863 - A,Garra Dura
+863 - A,Alma Acerada
+864 - A,Armadura Frágil
+864 - A,Cuerpo Mortal
+865 - A,Impasible
+865 - A,Intrépido
+866 - A,Tumbos
+866 - A,Antibarrera
+866 - A,Gélido
+867 - A,Alma Errante
+868 - A,Velo Dulce
+868 - A,Velo Aroma
+869 - A,Velo Dulce
+869 - A,Velo Aroma
+870 - A,Armadura Batalla
+870 - A,Competitivo
+871 - A,Pararrayos
+871 - A,Electrogénesis
+872 - A,Polvo Escudo
+872 - A,Escama de Hielo
+873 - A,Polvo Escudo
+873 - A,Escama de Hielo
+874 - A,Fuente Energía
+875 - A,Cara de Hielo
+875 - B,Cara de Hielo
+876 - A,Foco Interno
+876 - A,Sincronía
+876 - A,Psicogénesis
+876 - B,Ritmo Propio
+876 - B,Sincronía
+876 - B,Psicogénesis
+877 - A,Mutapetito
+877 - B,Mutapetito
+878 - A,Potencia Bruta
+878 - A,Metal Pesado
+879 - A,Potencia Bruta
+879 - A,Metal Pesado
+880 - A,Absorbe Elec
+880 - A,Entusiasmo
+880 - A,Ímpetu Arena
+881 - A,Absorbe Elec
+881 - A,Elec. Estática
+881 - A,Quitanieves
+882 - A,Absorbe Agua
+882 - A,Mandíbula Fuerte
+882 - A,Ímpetu Arena
+883 - A,Absorbe Agua
+883 - A,Gélido
+883 - A,Quitanieves
+884 - A,Metal Liviano
+884 - A,Metal Pesado
+884 - A,Acérrimo
+885 - A,Cuerpo Puro
+885 - A,Allanamiento
+885 - A,Cuerpo Maldito
+886 - A,Cuerpo Puro
+886 - A,Allanamiento
+886 - A,Cuerpo Maldito
+887 - A,Cuerpo Puro
+887 - A,Allanamiento
+887 - A,Cuerpo Maldito
+888 - A,Espada Indómita
+888 - B,Espada Indómita
+889 - A,Escudo Recio
+889 - B,Escudo Recio
+890 - A,Presión
+890 - B,Presión
+891 - A,Foco Interno
+892 - A,Puño Invisible
+892 - B,Puño Invisible
+893 - A,Defensa Hoja
+893 - B,Defensa Hoja
+894 - A,Transistor
+895 - A,Mandíbula Dragón
+896 - A,Relincho Blanco
+897 - A,Relincho Negro
+898 - A,Nerviosismo
+898 - B,Unidad Ecuestre
+898 - C,Unidad Ecuestre
+899 - A,Intimidación
+899 - A,Cacheo
+899 - A,Herbívoro
+900 - A,Enjambre
+900 - A,Potencia Bruta
+900 - A,Cortante
+901 - A,Agallas
+901 - A,Antibalas
+901 - A,Nerviosismo
+901 - B,Ojo Mental 
+902 - A,Nado Rápido
+902 - A,Adaptable
+902 - A,Rompemoldes
+902 - B,Nado Rápido
+902 - B,Adaptable
+902 - B,Rompemoldes
+903 - A,Presión
+903 - A,Liviano
+903 - A,Toque Tóxico
+904 - A,Punto Tóxico
+904 - A,Nado Rápido
+904 - A,Intimidación
+905 - A,Gran Encanto
+905 - A,Respondón
+905 - B,Funda
+906 - A,Espesura
+906 - A,Mutatipo
+907 - A,Espesura
+907 - A,Mutatipo
+908 - A,Espesura
+908 - A,Mutatipo
+909 - A,Mar Llamas
+909 - A,Ignorante
+910 - A,Mar Llamas
+910 - A,Ignorante
+911 - A,Mar Llamas
+911 - A,Ignorante
+912 - A,Torrente
+912 - A,Autoestima
+913 - A,Torrente
+913 - A,Autoestima
+914 - A,Torrente
+914 - A,Autoestima
+915 - A,Velo Aroma
+915 - A,Gula
+915 - A,Sebo
+916 - A,Olor Persistente
+916 - A,Gula
+916 - A,Sebo
+916 - B,Velo Aroma
+916 - B,Gula
+916 - B,Sebo
+917 - A,Insomnio
+917 - A,Vigilante
+918 - A,Insomnio
+918 - A,Vigilante
+919 - A,Enjambre
+919 - A,Cromolente
+920 - A,Enjambre
+920 - A,Cromolente
+921 - A,Elec. Estática
+921 - A,Cura Natural
+921 - A,Puño Férreo
+922 - A,Absorbe Elec
+922 - A,Cura Natural
+922 - A,Puño Férreo
+923 - A,Absorbe Elec
+923 - A,Cura Natural
+923 - A,Puño Férreo
+924 - A,Fuga
+924 - A,Recogida
+924 - A,Ritmo Propio
+925 - A,Compiescolta
+925 - A,Carrillo
+925 - A,Experto
+925 - B,Compiescolta
+925 - B,Carrillo
+925 - B,Experto
+926 - A,Ritmo Propio
+926 - A,Zoquete
+927 - A,Cuerpo Horneado
+927 - A,Velo Aroma
+928 - A,Madrugar
+928 - A,Cosecha
+929 - A,Madrugar
+929 - A,Cosecha
+930 - A,Disemillar
+930 - A,Cosecha
+931 - A,Intimidación
+931 - A,Entusiasmo
+931 - A,Agallas
+931 - B,Intimidación
+931 - B,Entusiasmo
+931 - B,Agallas
+931 - C,Intimidación
+931 - C,Entusiasmo
+931 - C,Potencia Bruta
+931 - D,Intimidación
+931 - D,Entusiasmo
+931 - D,Potencia Bruta
+932 - A,Sal Purificadora
+932 - A,Robustez
+932 - A,Cuerpo Puro
+933 - A,Sal Purificadora
+933 - A,Robustez
+933 - A,Cuerpo Puro
+934 - A,Sal Purificadora
+934 - A,Robustez
+934 - A,Cuerpo Puro
+935 - A,Absorbe Fuego
+935 - A,Cuerpo Llama
+936 - A,Absorbe Fuego
+936 - A,Armadura Frágil
+937 - A,Absorbe Fuego
+937 - A,Armadura Frágil
+938 - A,Ritmo Propio
+938 - A,Elec. Estática
+938 - A,Humedad
+939 - A,Dinamo
+939 - A,Elec. Estática
+939 - A,Humedad
+940 - A,Energía Eólica
+940 - A,Absorbe Elec
+940 - A,Tenacidad
+941 - A,Energía Eólica
+941 - A,Absorbe Elec
+941 - A,Tenacidad
+942 - A,Intimidación
+942 - A,Fuga
+942 - A,Vigilante
+943 - A,Intimidación
+943 - A,Perro Guardián
+943 - A,Vigilante
+944 - A,Liviano
+944 - A,Hurto
+944 - A,Bromista
+945 - A,Liviano
+945 - A,Toque Tóxico
+945 - A,Bromista
+946 - A,Surcavientos
+946 - A,Allanamiento
+947 - A,Surcavientos
+947 - A,Allanamiento
+948 - A,Poder Fúngico
+949 - A,Poder Fúngico
+950 - A,Coraza Ira
+950 - A,Caparazón
+950 - A,Regeneración
+951 - A,Clorofila
+951 - A,Insomnio
+951 - A,Zoquete
+952 - A,Clorofila
+952 - A,Insomnio
+952 - A,Veleta
+953 - A,Ojo Compuesto
+953 - A,Mudar
+954 - A,Sincronía
+954 - A,Telepatía
+955 - A,Anticipación
+955 - A,Cacheo
+955 - A,Impulso
+956 - A,Oportunista
+956 - A,Cacheo
+956 - A,Impulso
+957 - A,Rompemoldes
+957 - A,Ritmo Propio
+957 - A,Hurto
+958 - A,Rompemoldes
+958 - A,Ritmo Propio
+958 - A,Hurto
+959 - A,Rompemoldes
+959 - A,Ritmo Propio
+959 - A,Hurto
+960 - A,Baba
+960 - A,Cobardía
+960 - A,Velo Arena
+961 - A,Baba
+961 - A,Cobardía
+961 - A,Velo Arena
+962 - A,Sacapecho
+962 - A,Vista Lince
+962 - A,Transportarrocas
+963 - A,Velo Agua
+964 - A,Cambio Heroico
+964 - B,Cambio Heroico
+965 - A,Funda
+965 - A,Inicio Lento
+966 - A,Funda
+966 - A,Filtro
+967 - A,Mudar
+967 - A,Regeneración
+968 - A,Geofagia
+968 - A,Velo Arena
+969 - A,Capa Tóxica
+969 - A,Corrosión
+970 - A,Capa Tóxica
+970 - A,Corrosión
+971 - A,Recogida
+971 - A,Peluche
+972 - A,Ímpetu Arena
+972 - A,Peluche
+973 - A,Intrépido
+973 - A,Tumbos
+973 - A,Unísono
+974 - A,Sebo
+974 - A,Manto Níveo
+974 - A,Potencia Bruta
+975 - A,Sebo
+975 - A,Quitanieves
+975 - A,Potencia Bruta
+976 - A,Rompemoldes
+976 - A,Cortante
+977 - A,Ignorante
+977 - A,Despiste
+977 - A,Velo Agua
+978 - A,Comandar
+978 - A,Colector
+978 - B,Comandar
+978 - B,Colector
+978 - C,Comandar
+978 - C,Colector
+979 - A,Espíritu Vital
+979 - A,Foco Interno
+979 - A,Competitivo
+980 - A,Punto Tóxico
+980 - A,Absorbe Agua
+980 - A,Ignorante
+981 - A,Rumia
+981 - A,Cola Armadura
+981 - A,Herbívoro
+982 - A,Dicha
+982 - A,Fuga
+982 - A,Cobardía
+982 - B,Dicha
+982 - B,Fuga
+982 - B,Cobardía
+983 - A,Competitivo
+983 - A,General Supremo
+983 - A,Presión
+984 - A,Paleosíntesis
+985 - A,Paleosíntesis
+986 - A,Paleosíntesis
+987 - A,Paleosíntesis
+988 - A,Paleosíntesis
+989 - A,Paleosíntesis
+990 - A,Carga Cuark
+991 - A,Carga Cuark
+992 - A,Carga Cuark
+993 - A,Carga Cuark
+994 - A,Carga Cuark
+995 - A,Carga Cuark
+996 - A,Termoscambio
+996 - A,Gélido
+997 - A,Termoscambio
+997 - A,Gélido
+998 - A,Termoscambio
+998 - A,Gélido
+999 - A,Cobardía
+999 - B,Fuga
+1000 - A,Cuerpo Áureo
+1001 - A,Tablilla Debacle
+1002 - A,Espada Debacle
+1003 - A,Caldero Debacle
+1004 - A,Abalorio Debacle
+1005 - A,Paleosíntesis
+1006 - A,Carga Cuark
+1007 - A,Latido Oricalco
+1007 - B,Latido Oricalco
+1007 - C,Latido Oricalco
+1007 - D,Latido Oricalco
+1007 - E,Latido Oricalco
+1008 - A,Motor Hadrónico
+1008 - B,Motor Hadrónico
+1008 - C,Motor Hadrónico
+1008 - D,Motor Hadrónico
+1008 - E,Motor Hadrónico
+1009 - A,Paleosíntesis
+1010 - A,Carga Cuark
+1011 - A,Néctar Dulce
+1011 - A,Gula
+1011 - A,Viscosidad
+1012 - A,Hospitalidad
+1012 - A,Ignífugo
+1013 - A,Hospitalidad
+1013 - A,Ignífugo
+1014 - A,Cadena Tóxica
+1014 - A,Perro Guardián
+1015 - A,Cadena Tóxica
+1015 - A,Cacheo
+1016 - A,Cadena Tóxica
+1016 - A,Experto
+1017 - A,Competitivo
+1017 - B,Absorbe Agua
+1017 - C,Rompemoldes
+1017 - D,Robustez
+1018 - A,Firmeza
+1018 - A,Robustez
+1018 - A,Acérrimo
+1019 - A,Néctar Dulce
+1019 - A,Regeneración
+1019 - A,Viscosidad
+1020 - A,Paleosíntesis
+1021 - A,Paleosíntesis
+1022 - A,Carga Cuark
+1023 - A,Carga Cuark
+1024 - A,Teracambio
+1024 - B,Teracaparazón
+1024 - C,Teraformación 0
+1025 - A,Títere Tóxico
