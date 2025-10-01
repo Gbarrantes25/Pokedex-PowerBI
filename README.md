@@ -39,6 +39,7 @@ Este dashboard fue diseñado para revisar algunas estadísticas base e informaci
 ## 📂 Estructura del Repositorio
 <code>.
   ├── Fuentes de Datos/                                         # Contiene los archivos fromato .csv
+  ├── Objetos Visuales/                                         # Contiene objetos visuales personalizados.
   ├── Dashboard (box 3 degradado gris negro Pokemon v2).svg     # Es el archivo de fondo del lienzo del proyecto.
   ├── Pokedex.pbix                                              # Archivo que será ejecutado con Power BI Desktop.
   └── README.md                                                 # Este archivo.
