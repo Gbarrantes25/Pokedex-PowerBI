@@ -2,20 +2,25 @@
 
 
 ## 📃 Descripción General
-Este dashboard fue diseñado para analizar el "Hotel Revenue" de la prestigiosa cadena de hoteles GHL (incluye datos ficticios).
+Este dashboard fue diseñado para revisar algunas estadísticas base e información del Pokemon (no incluye Megaevoluciones).
 
-<img width="200" height="121" alt="image" src="https://github.com/user-attachments/assets/e5042a94-be9a-46aa-ba52-f2e33ec8c7df" />
-
+<p align="center"><img width="411" height="273" alt="image" src="https://github.com/user-attachments/assets/75cdc45d-6a51-4818-8bf2-22fe329b0515" /></p>
 
 ## 📊 Contenido del proyecto
-- Página de "Regions": Contiene una vista general por país.
-- Páginas de "Hotel Branches": Contiene una vista por sucursal de hotel.
+- Página de "Pokedex": Contiene una vista general por Pokemon y forma.
 
 
 ## 🛠️ Herramientas y Tecnologías Utilizadas
 - Visualización: Power BI Desktop.
 - Fuente de Datos:
-  - [Reservaciones.xlsx](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdWNnJHLjaaxnecHMjJK8TAAop6xaUzc2tE5GKhMgPZyLvMDqzsVRGwXgw6ONBDgNShjCJSyITTLpV/pub?output=xlsx)
+  - [PokemonForms.csv (Tabla Principal)](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/PokemonForms.csv)
+  - [DimPokemon.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimPokemon.csv)
+  - [DimEvolution.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimEvolution.csv)
+  - [DimCharacteristics.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimCharacteristics.csv)
+  - [DimTypePokemon.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimTypePokemon.csv)
+  - [DimAbilities.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimAbilities.csv)
+  - [DimStats.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimStats.csv)
+  - [DimRegion.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimRegion.csv)
  
     
 - Lenguajes: DAX para las medidas calculadas y Power Query (Lenguaje M) para la transformación de datos.
