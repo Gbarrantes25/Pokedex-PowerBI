@@ -79,7 +79,7 @@ Este dashboard fue diseñado para revisar algunas estadísticas base e informaci
   - Tabla DimEvolution
     - <code>IndexId = INT(TRIM(LEFT(DimEvolution[IdEvolution],2)))</code> (Columna para crear un índice de ordenamiento).
     - <code>Type1 = LOOKUPVALUE(DimTypePokemon[Type],DimTypePokemon[IdType],DimEvolution[IdType1])</code> (Columna para traer el tipo1 del Pokemon).
-    - <ode>Type2 = LOOKUPVALUE(DimTypePokemon[Type],DimTypePokemon[IdType],DimEvolution[IdType2])</code> (Columna para traer el tipo2 del Pokemon).
+    - <code>Type2 = LOOKUPVALUE(DimTypePokemon[Type],DimTypePokemon[IdType],DimEvolution[IdType2])</code> (Columna para traer el tipo2 del Pokemon).
 
 - Medidas DAX para crear tablas puente:
   - <code>IdForms = VALUES(PokemonForms[IdForm])</code>
