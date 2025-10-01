@@ -29,15 +29,16 @@ Este dashboard fue diseñado para revisar algunas estadísticas base e informaci
 ## ⚙️ Configuración del Entorno
 - Software Necesario: Power BI Desktop.
 - Instalación:
-  - Descargar [Revenue.pbix](https://github.com/Gbarrantes25/RevenueManagement-Dashboard-PowerBI/blob/main/Revenue.pbix) con Power BI Desktop.
+  - Descargar [Pokedex.pbix](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Pokedex.pbix) con Power BI Desktop.
   - Entrar a Inicio y darle click a "Actualizar".
 
 
 ## 📂 Estructura del Repositorio
 <code>.
-  ├── Dashboard (box azul).svg     # Es el archivo de fondo del lienzo del proyecto.
-  ├── Revenue.pbix                 # Archivo que será ejecutado con Power BI Desktop.
-  └── README.md                    # Este archivo.
+  ├── Fuentes de Datos/                                         # Contiene los archivos de datos de ejemplo (.CSV)
+  ├── Dashboard (box 3 degradado gris negro Pokemon v2).svg     # Es el archivo de fondo del lienzo del proyecto.
+  ├── Pokedex.pbix                                              # Archivo que será ejecutado con Power BI Desktop.
+  └── README.md                                                 # Este archivo.
 </code>
 
 
