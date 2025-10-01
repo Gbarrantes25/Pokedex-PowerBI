@@ -24,6 +24,9 @@ Este dashboard fue diseñado para revisar algunas estadísticas base e informaci
  
     
 - Lenguajes: DAX para las medidas calculadas y Power Query (Lenguaje M) para la transformación de datos.
+- Objetos Visuales Personalizados:
+  - [Simple Image](https://appsource.microsoft.com/es-es/product/power-bi-visuals/WA104381835?tab=Overview)
+  - [Image Carousel by MAQ Software](https://appsource.microsoft.com/es-es/product/power-bi-visuals/maqsoftware1587623472284.imagecarouselbymaqsoftware?tab=Overview)
 
 
 ## ⚙️ Configuración del Entorno
