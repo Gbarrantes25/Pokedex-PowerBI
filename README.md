@@ -236,14 +236,7 @@ Este dashboard fue diseñado para revisar algunas estadísticas base e informaci
 <details>
   <summary>Capturas</summary>
 
-  ![Animation2](https://github.com/user-attachments/assets/9eb48803-4d08-467a-b096-ec5befa93ece)
-
-
-  ![Animation3](https://github.com/user-attachments/assets/20ed72ca-0917-4978-9796-440cf7599d74)
-
-
-  [![Título del gdfgVideo]([https://img.freepik.com/vector-premium/icono-video-png_564384-173.jpg](https://github.com/user-attachments/assets/75cdc45d-6a51-4818-8bf2-22fe329b0515))]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=z-FERNIn5QY))
-  [![fdgdfgdfg](https://img.freepik.com/vector-premium/icono-video-png_564384-173.jpg)](https://www.youtube.com/watch?v=z-FERNIn5QY)
+  [![fdgdfgdfg](https://github.com/user-attachments/assets/a440687b-86b0-4f60-be21-5cb543b01930")](https://youtu.be/4yHYE3eo5Uw?si=i_gpa0R2jH8cYpfy)
 
 </details>
 
