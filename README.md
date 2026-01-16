@@ -234,7 +234,7 @@ Este dashboard fue diseñado para revisar algunas estadísticas base e informaci
 
 ## 🖼️ Vistas Previas del proyecto
 <details>
-  <summary>Video</summary>
+  <summary>Video (clic a la imagen)</summary>
 
   [![Video](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Images/Previsualizacion.png)](https://youtu.be/4yHYE3eo5Uw?si=i_gpa0R2jH8cYpfy)
 
