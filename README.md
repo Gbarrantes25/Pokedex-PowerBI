@@ -2,7 +2,7 @@
 
 
 ## 📃 Descripción General
-Este dashboard fue diseñado para revisar algunas estadísticas base e información del Pokemon (no incluye Megaevoluciones).
+Este dashboard fue diseñado para revisar algunas estadísticas base e información del Pokemon (incluye Megaevoluciones).
 
 <p align="center"><img width="411" height="273" alt="image" src="https://github.com/user-attachments/assets/75cdc45d-6a51-4818-8bf2-22fe329b0515" /></p>
 
@@ -13,35 +13,30 @@ Este dashboard fue diseñado para revisar algunas estadísticas base e informaci
 ## 🛠️ Herramientas y Tecnologías Utilizadas
 - Visualización: Power BI Desktop.
 - Fuente de Datos:
-  - [PokemonForms.csv (Tabla Principal)](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/PokemonForms.csv)
-  - [DimPokemon.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimPokemon.csv)
-  - [DimEvolution.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimEvolution.csv)
-  - [DimCharacteristics.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimCharacteristics.csv)
-  - [DimTypePokemon.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimTypePokemon.csv)
-  - [DimAbilities.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimAbilities.csv)
-  - [DimStats.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimStats.csv)
-  - [DimRegion.csv](https://raw.githubusercontent.com/Gbarrantes25/Pokedex-PowerBI/refs/heads/main/Fuente%20de%20Datos/DimRegion.csv)
+  - [PokemonForms.csv (Tabla Principal)](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Data%20Source/FactPokemon.csv)
+  - [DimPokemon.csv](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Data%20Source/DimPokemon.csv)
+  - [DimEvolution.csv](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Data%20Source/DimEvolution.csv)
+  - [DimTypePokemon.csv](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Data%20Source/DimTypePokemon.csv)
+  - [DimRegion.csv](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Data%20Source/DimRegion.csv)
+  - [DimPokemonForm](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Data%20Source/DimPokemonForm.csv)
  
     
 - Lenguajes: DAX para las medidas calculadas y Power Query (Lenguaje M) para la transformación de datos.
-- Objetos Visuales Personalizados:
-  - [Simple Image](https://appsource.microsoft.com/es-es/product/power-bi-visuals/WA104381835?tab=Overview)
-  - [Image Carousel by MAQ Software](https://appsource.microsoft.com/es-es/product/power-bi-visuals/maqsoftware1587623472284.imagecarouselbymaqsoftware?tab=Overview)
-
 
 ## ⚙️ Configuración del Entorno
+- Conexión a internet.
 - Software Necesario: Power BI Desktop.
 - Instalación:
-  - Descargar [Pokedex.pbix](https://github.com/Gbarrantes25/Pokedex-PowerBI/blob/main/Pokedex.pbix) con Power BI Desktop.
+  - Descargar [Pokedex v2.pbix](https://github.com/Gbarrantes25/Pokedex-PowerBI/raw/refs/heads/main/Pokedex%20v2.pbix) con Power BI Desktop.
   - Entrar a Inicio y darle click a "Actualizar".
 
 
 ## 📂 Estructura del Repositorio
 <code>.
-  ├── Fuentes de Datos/                                         # Contiene los archivos fromato .csv
-  ├── Objetos Visuales/                                         # Contiene objetos visuales personalizados.
+  ├── Data Source/                                              # Contiene los archivos fromato .csv
+  |—— Mega-Evolution/                                           # Contiene imágenes de las megavoluciones.
   ├── Dashboard (box 3 degradado gris negro Pokemon v2).svg     # Es el archivo de fondo del lienzo del proyecto.
-  ├── Pokedex.pbix                                              # Archivo que será ejecutado con Power BI Desktop.
+  ├── Pokedex v2.pbix                                           # Archivo que será ejecutado con Power BI Desktop.
   └── README.md                                                 # Este archivo.
 </code>
 
