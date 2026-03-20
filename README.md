@@ -2,7 +2,14 @@
 
 
 ## 📃 Descripción General
-Este dashboard fue diseñado para revisar algunas estadísticas base e información del Pokemon (incluye Megaevoluciones).
+Dashboard interactivo de Pokédex desarrollado en Power BI, diseñado para explorar y analizar estadísticas base e información detallada de Pokémon, incluyendo todas sus formas y Megaevoluciones.
+Este proyecto transforma datos de la franquicia Pokémon en una experiencia visual interactiva mediante:
+
+- 📊 Vista Única: Pokédex con vista general por Pokémon y forma.
+- ⚡ Megaevoluciones: Incluye todas las formas Mega-Evolution disponibles.
+- 🎨 Diseño Temático: Interfaz inspirada en la Pokédex oficial con fondo personalizado.
+- 📈 Estadísticas Base: 6 stats principales (HP, ATK, DEF, SP ATK, SP DEF, SPD).
+- 🖱️ Interactividad: Segmentación por región, tipo y búsqueda por nombre/ID.
 
 <p align="center"><img width="411" height="273" alt="image" src="https://github.com/user-attachments/assets/75cdc45d-6a51-4818-8bf2-22fe329b0515" /></p>
 
